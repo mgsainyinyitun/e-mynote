@@ -1,0 +1,15 @@
+{
+  "name": "mynote",
+  "version": "1.0.0",
+  "description": "\"Note taking develop by electron\"",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sai Nyi Nyi TUN",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^18.2.0",
+    "tailwindcss": "^3.0.24"
+  }
+}
